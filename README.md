@@ -80,8 +80,9 @@ Available from January 2027 for a 6-month end-of-studies engineering internship.
 
 ## Research and Technical Explorations
 
-* **Deepfake Detection and Document Authentication:** Built PyTorch binary classification networks integrating Convolutional Neural Networks with Error Level Analysis (ELA) to isolate compression anomalies and visual document forgeries. Evaluated with precision-recall curves and compression resistance tests.
-* **Graph-Augmented Contextual RAG:** Designed a containerized retrieval-augmented generation prototype combining ArangoDB vector-graph search with agentic sub-query decomposition to evaluate multi-hop retrieval precision.
+* **Deepfake Detection and Document Authentication ([document-forensics-deepfake-detection](https://github.com/hedibenabdallah/document-forensics-deepfake-detection)):** Built PyTorch binary classification networks integrating Convolutional Neural Networks with Error Level Analysis (ELA) to isolate compression anomalies and visual document forgeries. Evaluated with precision-recall curves and compression resistance tests.
+* **Graph-Augmented Contextual RAG ([arangodb-rag-prototype](https://github.com/hedibenabdallah/arangodb-rag-prototype)):** Designed a containerized retrieval-augmented generation prototype combining ArangoDB vector-graph search with agentic sub-query decomposition to evaluate multi-hop retrieval precision.
+* **Enterprise LLM Security Proxy ([SecureFinAI-Platform](https://github.com/hedibenabdallah/SecureFinAI-Platform)):** Open repository containing enterprise LLM security proxy components, PII anonymization, and prompt injection detection heuristics.
 * **Open Science Research Group:** Participant in the Cohere Labs Open Science Community (ML Agents Research Group).
 
 ---
