@@ -28,6 +28,14 @@ Available from January 2027 for a 6-month end-of-studies engineering internship.
 
 ## Selected Engineering Experience
 
+### AI Engineer Intern | Product Manager Accelerator
+*Boston, MA, USA (Remote) | October 13, 2026 - Present*
+* **Domain:** GenAI-Driven Product Features and LLM Integration (Part-time).
+* **Engineering Decisions and Responsibilities:**
+  * Collaborate within cross-functional agile teams (product managers, UI/UX designers, data scientists) to design and build GenAI-driven product features.
+  * Integrate LLMs and APIs into core application workflows and contribute to data pipeline architectures.
+  * Research and benchmark applied AI/ML techniques for ongoing product feature implementations.
+
 ### AI Engineer (Freelance) | Smartovate Ltd
 *London, UK (Remote) | September 2026 - Present*
 * **Domain:** Real-Time Bidirectional Voice AI Platform (Active Development).
