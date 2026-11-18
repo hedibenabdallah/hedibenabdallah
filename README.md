@@ -13,7 +13,7 @@ Computer Science Engineering student (ESPRIT, graduating 2027) specializing in p
 
 My work centers on building reliable systems around foundation models: deterministic orchestration, strict output validation, streaming pipelines with low latency thresholds, and isolated inference environments under strict privacy constraints.
 
-Available from January 2027 for a 6-month end-of-studies engineering internship. Also engaged in selective freelance and remote AI engineering engagements.
+Available from January 2027 for a 6-month end-of-studies engineering internship.
 
 ---
 
